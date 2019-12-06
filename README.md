@@ -50,7 +50,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-    It's version control system. It allows developers to revert back to old code, compare changes in code, and keep a complete history of all the modifications and changes to code.
+    It's version control system. It allows developers to revert back to old code, compare changes in code, and keep a complete history of all the modifications and changes to code as they were then.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
